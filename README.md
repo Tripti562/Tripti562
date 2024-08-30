@@ -5,7 +5,7 @@
 
 
 
-- 👨‍💻 All of my projects are available at [gautamtripti.netlify.app](gautamtripti.netlify.app)
+- 👨‍💻 All of my projects are available at [Portfolio](gautamtripti.netlify.app)
 
 - 📫 How to reach me **gautamtripti1@gmail.com**
 
